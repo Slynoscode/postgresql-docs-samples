@@ -1,4 +1,4 @@
-#Run Bizora's local PostgreSQL on Linux with Docker Compose
+##Run Bizora's local PostgreSQL on Linux with Docker Compose
 
 This guide shows you how to start, verify, reset and troubleshoot the local PostgreSQL database used for Bizora development. It also covers the Redis and WireMock services that run beside it.
 Scope: local development only. The credentials in this guide are for your own machine. Never reuse them in cloud environments.
